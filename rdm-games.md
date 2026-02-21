@@ -23,7 +23,7 @@ if (!window.globalTimerStarted) {
   const timerDiv = document.createElement("div");
   timerDiv.id = "globalTimer";
   timerDiv.style.position = "fixed";
-  timerDiv.style.top = "10px";
+  timerDiv.style.top = "100px";
   timerDiv.style.right = "20px";
   timerDiv.style.fontSize = "20px";
   timerDiv.style.fontWeight = "bold";
@@ -99,7 +99,7 @@ and feed the system with some *reflection*.
 
 >**TASK 💡🤹**
 >
->**To select a game for your session, you need to know where to look for such a game... How do you proceed?**
+>**You need some inspiration...! Where to look for such a game...? How do you proceed?**
 
 - [ ] I know everything and don't need any further information.
 - [ ] I will check forschungsdaten.info.
@@ -150,7 +150,7 @@ try {
   if (task[0]) {
     send.liascript(`## You are bored. Okay...
 
-You can play this little game, but there is no information on RDM games in it...
+You can play this little game, but there is**no information** on RDM games in it... *Please turn out your sound*!
 
 <iframe src="https://archive.org/embed/chenall_dyna" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -163,7 +163,7 @@ You can also go back to
   } else if (task[1]) {
     send.liascript(`## You hate games? May be, you want to read instead?
 
-* [Read](#Read)
+* [Read about games here](#Read)
 
 You can also go back to
 
@@ -174,7 +174,7 @@ You can also go back to
   } else if (task[2]) {
     send.liascript(`## I will use Google.
 
-Ok Cool. Go on here:
+Ok cool. Go on here:
 
 * [Google](#Google)`)
   
@@ -201,6 +201,7 @@ Okay, you don´t like games...
 - https://www.zbw-mediatalk.eu/de/2022/02/horror-forschungsdatenmanagement-4-best-practice-beispiele-fuer-gelungene-gamifications/
 
 <br>
+
 
 You can also go back to
 
@@ -467,7 +468,7 @@ try {
   } else if (choice === 2) {
     send.liascript(`## Just a browser?
 
-* That is right. You are a hero! 🏆
+* That is right. You are a hero! 🏆🃏
 * You still have time? Check out some other game: [Data Management - The Game](#Data-Management---The-Game)
 * Go to [Finish](#Finish)
 `)
@@ -520,7 +521,7 @@ try {
   } else if (choice === 2) {
     send.liascript(`## Yes?
 
-* Yes this is correct. Both options are playable is a short time. :-)  You are a hero! 🏆
+* Yes this is correct. Both options are playable in short time. :-)  You are a hero! 🏆
 
 [Go on checking out Data Management - The Game](#data-management---the-game-ii)
 `)
@@ -610,26 +611,39 @@ Well, it is a nice game and it does match quite some prerequisites, but you need
   } else if (choice === 1) {
     send.liascript(`## Research Data Management Adventure?
 
-This seems to be a good choice! The game can be played in a browser and you don´t even need a keyboard. Thus the games can also be played by smartphone or tablet users.
+This seems to be a possible choice! The game can be played with just a browser and you don´t even need a keyboard. Thus the game can also be played by smartphone or tablet users. 🏆
 
-In order to keep in time, you choose to play only one chapter of the game during your session.
+In order to keep in time, you choose to play only one chapter of the game during your session. Make sure you instruct the participants accordingly.
 
 `)
   } else if (choice === 2) {
-    send.liascript(`## Data Management - The Game
+    send.liascript(`## Data Management - The Game?
 
-* Text text tex
+This may be a good choice! The game has two options, both can be played within 15 minutes and you just need a browser to play. Smartphone or tablet users won´t have problems. Great! 🏆
+
 `)
   } else if (choice === 3) {
     send.liascript(`## You´ll prepare something yourself?
 
-* That is cool, too. But be aware that this can eat a lot of your time!
+* That is cool, too. But be aware that this can eat a lot of your time! 🃏🏆
 `)
   } else {
     send.clear()
   }
 } catch(e) {}
 </script>
+
+---
+
+>**LAST TASK 💡🤹**
+>
+>**How many 🃏 are hidden in this document?**
+>
+>[[ ]] 1
+>[[x]] 2
+>[[ ]] 3
+>[[ ]] 4
+>[[ ]] 5
 
 # Thank you 💝
 
