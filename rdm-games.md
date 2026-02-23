@@ -23,7 +23,7 @@ if (!window.globalTimerStarted) {
   const timerDiv = document.createElement("div");
   timerDiv.id = "globalTimer";
   timerDiv.style.position = "fixed";
-  timerDiv.style.top = "100px";
+  timerDiv.style.bottom = "20px";
   timerDiv.style.right = "20px";
   timerDiv.style.fontSize = "20px";
   timerDiv.style.fontWeight = "bold";
@@ -150,7 +150,9 @@ try {
   if (task[0]) {
     send.liascript(`## You are bored. Okay...
 
-You can play this little game, but there is**no information** on RDM games in it... *Please turn out your sound*!
+You can play this little game, but there is **no information** on RDM games in it...
+
+*Please turn out your sound*!
 
 <iframe src="https://archive.org/embed/chenall_dyna" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -196,12 +198,11 @@ Okay, you don´t like games...
 
 ***You may also read an interesting article on an rdm related games:***
 
-- https://series.publisso.de/index.php/de/journals/mbi/volume24/mbi000607
+- [Beißer M, Kusser N, Krause E. Mission FDM: Ein Escape Game zum Forschungsdatenmanagement. GMS Med Bibl Inf. 2024;24(2):Doc24.](https://series.publisso.de/index.php/de/journals/mbi/volume24/mbi000607)
 
-- https://www.zbw-mediatalk.eu/de/2022/02/horror-forschungsdatenmanagement-4-best-practice-beispiele-fuer-gelungene-gamifications/
+- [ZBW Mediatalk: Horror Forschungsdatenmanagement: 4-Best-Practice-Beispiele für gelungene Gamifications](https://www.zbw-mediatalk.eu/de/2022/02/horror-forschungsdatenmanagement-4-best-practice-beispiele-fuer-gelungene-gamifications/)
 
 <br>
-
 
 You can also go back to
 

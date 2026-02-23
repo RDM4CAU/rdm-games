@@ -1,6 +1,6 @@
-# Project Name
+# Escape the PLAYplex
 
-"Escape the PLAYplex" is an interactive, web‑based learning activity designed as a task for participant of the workshop: "Gamification & Games in Research Data Management: Engaging methods to foster better data practices" at RDA Deutschland 2026, Portsdan.
+"Escape the PLAYplex" is an interactive, web‑based learning activity designed as a task for the workshop: "Gamification & Games in Research Data Management: Engaging methods to foster better data practices" at RDA Deutschland 2026, Potsdam.
 
 Participants are introduced to three different online games in a playful way. They need to pick a short Research Data Management (RDM) game for an online meeting.
 
@@ -14,19 +14,11 @@ rdm-games.md as an interactive LiaScript rendered version combines a visible 20�
 To see rdm-games.md as an interactive LiaScript rendered version, click on the
 following link:
 
-[LiaScript]()
+[Escape the PLAYplex 🤹](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/rdm-games/refs/heads/main/rdm-games.md#1)
 
-- Clone or download the project:
-
-```bash
-git clone https://github.com/YOUR-USER/YOUR-REPO.git
-```
 
 ## License
 This project is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
-## Contributing
-- Issues and pull requests are welcome. Please describe proposed changes briefly in the issue or PR.
-
 ## Contact
-- For questions or feedback: open an issue or contact the author via their GitHub profile.
+- For questions or feedback: open an issue or contact the author via b.petersen@rz.uni-kiel.de or via GitHub profile.
