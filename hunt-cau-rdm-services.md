@@ -13,9 +13,11 @@ comment: Mini scavenger hunt on CAU RDM Services.
 
 # FDM an der CAU 🤹
 
->Dein Forschungsprojekt ist in Gefahr! Für den Förderantrag benötigst du einen Datenmanagementplan (DMP), aber Du hast noch nie einen geschrieben und weißt nicht, wie Du anfangen sollst. Dein Team weiß nicht, wie es gemeinsam an den Auswertungsskripten arbeiten soll. Die Labordaten und -dokumentationen sind verstreut. Niemand weiß, wo die physischen Proben, die während des Projekts erhoben werden, registriert werden können oder wo die endgültigen Datensätze veröffentlicht werden sollen.
+>Dein Forschungsprojekt ist in Gefahr! Für den Förderantrag benötigst du einen Datenmanagementplan (DMP), aber du hast noch nie einen geschrieben und weißt nicht, wie du anfangen sollst. Das Projektteam weiß nicht, wie es gemeinsam an den Auswertungsskripten arbeiten soll. Die Labordaten und -dokumentationen sind verstreut. Niemand weiß, wo die physischen Proben, die während des Projekts erhoben werden, registriert werden können oder wo die endgültigen Datensätze veröffentlicht werden sollen.
 >
->**Deine Aufgabe**: Entdecke die FDM-Dienste der CAU und finde Unterstützung für Dein Forschungsprojekt!
+>**Deine Mission**: Rette dein Forschungsprojekt! Entdecke die FDM-Services der CAU und finde heraus, welche Unterstützungsangebote dir bei den verschiedenen Herausforderungen helfen können.
+>
+>Löse die acht Missionen und sammle dabei Buchstaben für das finale Lösungswort. Wenn du es geknackt hast, wartet eine kleine Überraschung auf dich!
 
 ## Mission 1 – Get some support
 
@@ -23,7 +25,7 @@ Du planst ein neues Forschungsprojekt und brauchst Unterstützung beim Umgang mi
 
 Lösung: Zentrales _________________________
 
-Notiere Dir den **ersten Buchstaben** für das finale Lösungswort!
+Notiere dir den **ersten Buchstaben** für das finale Lösungswort!
 
 ---
 <br>
@@ -38,7 +40,7 @@ Das Team muss dringend mehr Ordnung in die Entwicklung der Auswertungsskripte br
 
 Lösung: _____________________
 
-Notiere Dir den **zweiten Buchstaben** für das finale Lösungswort!
+Notiere dir den **zweiten Buchstaben** für das finale Lösungswort!
 
 ---
 
@@ -57,7 +59,7 @@ Wie lautet das Akronym des dauerhaften, eindeutigen Identifikators für physisch
 
 Lösung: _____________________
 
-Notiere Dir den **vierten Buchstaben** des Akronyms für das finale Lösungswort.
+Notiere dir den **vierten Buchstaben** des Akronyms für das finale Lösungswort.
 
 ---
 <br>
@@ -70,11 +72,11 @@ Benutze den QR-Code oder schau mal [hier](https://igsn.uni-kiel.de/de)!
 
 Du möchtest einen Drittmittelantrag stellen. Dafür wird ein Datenmanagementplan (DMP) vorausgesetzt. Du könntest Unterstützung bei der Formulierung einiger Passagen zum Umgang mit Forschungsdaten gebrauchen.
 
-Wie lautet die zentrale Email-Adresse, unter der ein Beratunstermin vereinbart werden kann?
+Wie lautet die zentrale Email-Adresse, unter der ein Beratungstermin vereinbart werden kann?
 
 Lösung: _____________________
 
-Notiere Dir den **sechsten Buchstaben** (Sonderzeichen nicht mitzählen!) für das finale Lösungswort.
+Notiere dir den **sechsten Buchstaben** der E-Mail-Adresse (Sonderzeichen wie @ und Punkte werden nicht mitgezählt) für das finale Lösungswort!
 
 ---
 <br>
@@ -85,13 +87,13 @@ Benutze den QR-Code oder schau mal [hier](https://www.uni-kiel.de/de/universitae
 
 ## Mission 5 – Digital Lab
 
-Ein Teil des Team arbeitest im Labor. Experimente, Beobachtungen und Ergebnisse sollen digital dokumentiert werden.
+Ein Teil des Teams arbeitet im Labor. Experimente, Beobachtungen und Ergebnisse sollen digital dokumentiert werden.
 
 Wie heißt die Software, auf deren Basis die CAU ihren Service für elektronische Laborbücher anbietet?
 
 Lösung: _____________________
 
-Notiere Dir den **dritten Buchstaben** für das finale Lösungswort.
+Notiere dir den **dritten Buchstaben** für das finale Lösungswort.
 
 ---
 <br>
@@ -102,13 +104,13 @@ Benutze den QR-Code oder schau mal [hier](https://www.rz.uni-kiel.de/de/angebote
 
 ## Mission 6 – Digital Humanities
 
-Dein Forschungsprojekt ist interdisziplinär angelegt. Eine der Arbeitsgruppen möchte zur Beantwortzung einer bestimmten Fragestellung Handschriften auswerten.
+Dein Forschungsprojekt ist interdisziplinär angelegt. Eine der Arbeitsgruppen möchte zur Beantwortung einer Forschungsfrage historische Handschriften auswerten.
 
-Wie heißt das Werkzeug, das zur automatischen Texterkennung verwendet und dessen Nutzung über die Universitätsbibliothek (UB) beantragt werden kann?
+Wie heißt das Werkzeug, mit dem historische Handschriften automatisch erkannt und transkribiert werden können und dessen Nutzung die Universitätsbibliothek (UB) unterstützt?
 
 Lösung: _____________________
 
-Notiere Dir den **neunten Buchstaben** für das finale Lösungswort.
+Notiere dir den **neunten Buchstaben** für das finale Lösungswort.
 
 
 ---
@@ -120,13 +122,13 @@ Benutze den QR-Code oder schau mal [hier](https://www.ub.uni-kiel.de/de/kulturer
 
 ## Mission 7 – Networking
 
-Du hast davon gehört, dass man sich in Schleswig-Holstein zum Forschungsdatenmanagement auch über die Grenzen der eigenen Instituion hinaus austauschen und vernetzen kann.
+Du hast davon gehört, dass man sich in Schleswig-Holstein zum Forschungsdatenmanagement auch über die Grenzen der eigenen Institution hinaus austauschen und vernetzen kann.
 
 Wie lautet der vollständige Name der Initiative, in der sich Schleswig-Holsteins Hochschulen und Forschungseinrichtungen im Hinblick auf das Forschungsdatenmanagement zusammengeschlossen haben?
 
 Lösung: _____________________
 
-Notiere Dir den **ersten Buchstaben** für das finale Lösungswort.
+Notiere dir den **ersten Buchstaben** für das finale Lösungswort.
 
 ---
 <br>
@@ -137,13 +139,13 @@ Benutze den QR-Code oder schau mal [hier](https://fdm-sh.de/)!
 
 ## Mission 8 – Data Publication
 
-Dein Forschungsprojekt ist fast abgeschlossen. Du möchtest deine Forschungsdaten veröffentlichen, um den Vorgaben der Drittmittelorganisation zu entsprechen und damit Du und auch andere Forschende nach Abschluss der Arbeiten die Daten finden und nachnutzen können. Du hast gehört, dass die CAU ein ein Forschungsdatenrepositorium betreibt, das als Publikationsort geeignet sein könnte.
+Dein Forschungsprojekt ist fast abgeschlossen. Du möchtest deine Forschungsdaten veröffentlichen, um den Vorgaben der Drittmittelorganisation zu entsprechen und damit du und auch andere Forschende nach Abschluss der Arbeiten die Daten finden und nachnutzen können. Du hast gehört, dass die CAU ein Forschungsdatenrepositorium betreibt, das als Publikationsort geeignet sein könnte.
 
 **Was sollte man sich laut der Schritt-für-Schritt Anleitung des Services nehmen, um problemlos zur Publikation zu kommen?**
 
 Lösung: _____________________
 
-Notiere Dir den **zweiten Buchstaben** für das finale Lösungswort.
+Notiere dir den **zweiten Buchstaben** für das finale Lösungswort.
 
 ---
 <br>
@@ -156,6 +158,6 @@ Benutze den QR-Code oder schau mal [hier](https://opendata.uni-kiel.de/content/p
 
 Super! Du hast eine mögliche Anlaufstelle, Unterstützungsmöglichkeiten und Werkzeuge für das Datenmanagement in Deinem Forschungsprojekt recherchiert!
 
-Jetzt muss Du die gesammelten Buchstaben nur noch in Reihenfolge der kleinen Aufgaben aneinander reihen, um das finale Lösungswort zu ermitteln.
+Jetzt muss du die gesammelten Buchstaben nur noch in Reihenfolge der kleinen Aufgaben aneinander reihen, um das finale Lösungswort zu ermitteln.
 
-Mit dem finalen Lösungswort kannst Du Dir eine kleine Überraschung bei der Kursleitung abholen! :-)
+Mit dem finalen Lösungswort kannst du dir eine kleine Überraschung bei der Kursleitung abholen! :-)
