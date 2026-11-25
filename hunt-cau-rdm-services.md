@@ -13,9 +13,9 @@ comment: Mini scavenger hunt on CAU RDM Services.
 
 # FDM an der CAU 🤹
 
->Dein Forschungsprojekt ist in Gefahr! Für den Förderantrag benötigst du einen DMP, aber Du hast noch nie einen geschrieben und weißt nicht, wie Du anfangen sollst. Dein Team weiß nicht, wie es gemeinsam an den Auswertungsskripten arbeiten soll. Die Labordaten und -dokumentationen sind verstreut. Niemand weiß, wo die physischen Proben, die während des Projekts erhoben werden, registriert werden können oder wo die endgültigen Datensätze veröffentlicht werden sollen.
+>Dein Forschungsprojekt ist in Gefahr! Für den Förderantrag benötigst du einen Datenmanagementplan (DMP), aber Du hast noch nie einen geschrieben und weißt nicht, wie Du anfangen sollst. Dein Team weiß nicht, wie es gemeinsam an den Auswertungsskripten arbeiten soll. Die Labordaten und -dokumentationen sind verstreut. Niemand weiß, wo die physischen Proben, die während des Projekts erhoben werden, registriert werden können oder wo die endgültigen Datensätze veröffentlicht werden sollen.
 >
->**Deine Aufgabe**: Entdecke die RDM-Dienste der CAU und finde Unterstützung für Dein Forschungsprojekt!
+>**Deine Aufgabe**: Entdecke die FDM-Dienste der CAU und finde Unterstützung für Dein Forschungsprojekt!
 
 ## Mission 1 – Get some support
 
@@ -44,7 +44,7 @@ Notiere Dir den **zweiten Buchstaben** für das finale Lösungswort!
 
 <br>
 <!-- style="width: 200px; float: right;" -->
-![QR GitLab Uni Kiel](images\qrcode_fdm-uni-kielde.png)
+![QR GitLab Uni Kiel](images\qrcode_gitlab-uni-kiel.png)
 
 Benutze den QR-Code oder schau mal [hier](https://www.rz.uni-kiel.de/de/angebote/kollaboration/gitlab-versionsverwaltung-und-kollaborationsplattform)!
 
@@ -57,7 +57,7 @@ Wie lautet das Akronym des dauerhaften, eindeutigen Identifikators für physisch
 
 Lösung: _____________________
 
-Notiere Dir den vierten Buchstaben des Akronyms für das finale Lösungswort.
+Notiere Dir den **vierten Buchstaben** des Akronyms für das finale Lösungswort.
 
 ---
 <br>
@@ -74,7 +74,7 @@ Wie lautet die zentrale Email-Adresse, unter der ein Beratunstermin vereinbart w
 
 Lösung: _____________________
 
-Notiere Dir den sechsten Buchstaben (Sonderzeichen nicht mitzählen!) für das finale Lösungswort.
+Notiere Dir den **sechsten Buchstaben** (Sonderzeichen nicht mitzählen!) für das finale Lösungswort.
 
 ---
 <br>
@@ -91,7 +91,7 @@ Wie heißt die Software, auf deren Basis die CAU ihren Service für elektronisch
 
 Lösung: _____________________
 
-Notiere Dir den dritten Buchstaben für das finale Lösungswort.
+Notiere Dir den **dritten Buchstaben** für das finale Lösungswort.
 
 ---
 <br>
@@ -100,16 +100,15 @@ Notiere Dir den dritten Buchstaben für das finale Lösungswort.
 
 Benutze den QR-Code oder schau mal [hier](https://www.rz.uni-kiel.de/de/angebote/forschungsdaten/elabor)!
 
-
 ## Mission 6 – Digital Humanities
 
 Dein Forschungsprojekt ist interdisziplinär angelegt. Eine der Arbeitsgruppen möchte zur Beantwortzung einer bestimmten Fragestellung Handschriften auswerten.
 
-Wie heißt das Werkzeug, das zur automatischen Texterkennung verwendet werden kann und dessen Nutzung über die Universitätsbibliothek (UB) beantragt werden kann?
+Wie heißt das Werkzeug, das zur automatischen Texterkennung verwendet und dessen Nutzung über die Universitätsbibliothek (UB) beantragt werden kann?
 
 Lösung: _____________________
 
-Notiere Dir den neunten Buchstaben für das finale Lösungswort.
+Notiere Dir den **neunten Buchstaben** für das finale Lösungswort.
 
 
 ---
@@ -127,14 +126,14 @@ Wie lautet der vollständige Name der Initiative, in der sich Schleswig-Holstein
 
 Lösung: _____________________
 
-Notiere Dir den ersten Buchstaben für das finale Lösungswort.
+Notiere Dir den **ersten Buchstaben** für das finale Lösungswort.
 
 ---
 <br>
 <!-- style="width: 200px; float: right;" -->
-![UB Services](images\qrcode_fdm-sh.png)
+![FDM SH Homepage](images\qrcode_fdm-sh.png)
 
-Benutze den QR-Code oder schau mal [hier](https://www.ub.uni-kiel.de/de/kulturerbe/digital-humanities/werkzeuge)!
+Benutze den QR-Code oder schau mal [hier](https://fdm-sh.de/)!
 
 ## Mission 8 – Data Publication
 
@@ -144,7 +143,7 @@ Dein Forschungsprojekt ist fast abgeschlossen. Du möchtest deine Forschungsdate
 
 Lösung: _____________________
 
-Notiere Dir den zweiten Buchstaben für das finale Lösungswort.
+Notiere Dir den **zweiten Buchstaben** für das finale Lösungswort.
 
 ---
 <br>
